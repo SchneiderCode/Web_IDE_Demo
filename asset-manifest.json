@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "./static/css/main.05a437e3.chunk.css",
+    "main.js": "./static/js/main.e0c2f27c.chunk.js",
+    "main.js.map": "./static/js/main.e0c2f27c.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.6b75c0ae.js",
+    "runtime-main.js.map": "./static/js/runtime-main.6b75c0ae.js.map",
+    "static/js/2.98aff9d7.chunk.js": "./static/js/2.98aff9d7.chunk.js",
+    "static/js/2.98aff9d7.chunk.js.map": "./static/js/2.98aff9d7.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.8ea721fda0ade2c65c62b4c274aff002.js": "./precache-manifest.8ea721fda0ade2c65c62b4c274aff002.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/main.05a437e3.chunk.css.map": "./static/css/main.05a437e3.chunk.css.map",
+    "static/js/2.98aff9d7.chunk.js.LICENSE.txt": "./static/js/2.98aff9d7.chunk.js.LICENSE.txt",
+    "static/media/connect.gif": "./static/media/connect.1be099a0.gif",
+    "static/media/control_summary.gif": "./static/media/control_summary.0b759de5.gif",
+    "static/media/disconnect.gif": "./static/media/disconnect.343a10c4.gif",
+    "static/media/instructable1.png": "./static/media/instructable1.d62421d7.png",
+    "static/media/instructable2.png": "./static/media/instructable2.bb65e508.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6b75c0ae.js",
+    "static/js/2.98aff9d7.chunk.js",
+    "static/css/main.05a437e3.chunk.css",
+    "static/js/main.e0c2f27c.chunk.js"
+  ]
+}
